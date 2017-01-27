@@ -1,0 +1,17 @@
+div.bar {
+	display: inline-block;
+	width: 20px;
+	height: 75px;
+	background-color: teal;
+	margin-right: 2px;
+	margin-bottom: 10px;
+}
+
+svg {
+	width: 500px;
+	height: 500px;
+}
+
+rect, circle, ellipse {
+	background-color: black;
+}
